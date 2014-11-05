@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <!--
 Webová aplikace dle zadání LMC: 
 Vytvořte jednoduchou aplikaci v PHP.
