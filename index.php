@@ -3,7 +3,7 @@
 Webová aplikace dle zadání LMC: 
 Vytvořte jednoduchou aplikaci v PHP.
 Scope:
-Registrace
+Registrace 
 Přihlášení
 Přidání, editace, zobrazení článků
 Aplikace prosím pište tak, aby umožňovala pozdější rozšiřování. Výsledek nahrajte na
